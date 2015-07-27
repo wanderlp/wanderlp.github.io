@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "wanderlp",
-    "repositoryName": "wanderlp.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"wanderlp","repositoryName":"wanderlp.github.io","branch":"master"},"site":{"title":"wanderlp","url":"https://wanderlp.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//wanderlp.github.io/themes/Casper"}}
